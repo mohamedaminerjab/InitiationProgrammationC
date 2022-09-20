@@ -76,7 +76,7 @@ int main()
 - Afficher le résultat de cette expression avec une précision de 3 chiffres après la virgule flottante.
 
 ### Exercice 6 : Lecture et écriture
-  Écrire un programme permettant à l'utilisateur d'entrer un nombre de candidats inscrits et un
+Écrire un programme permettant à l'utilisateur d'entrer un nombre de candidats inscrits et un
 nombre de candidats présents et afficher le pourcentage des candidats présents.
 
 La sortie du programme doit correspondre à l'exécution ci-dessous.
